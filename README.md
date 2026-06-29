@@ -2,15 +2,10 @@
 
 <!-- Animated Header -->
 <a href="https://chichhorng.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Chichhorng+Koem;Software+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Chichhorng+Koem;Full-Stack+Developer" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://chichhorng.com"><img src="https://img.shields.io/badge/Portfolio-chichhorng.com-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/chichhorng"><img src="https://img.shields.io/badge/LinkedIn-chichhorng-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/chichhorng"><img src="https://img.shields.io/badge/Telegram-chichhorng-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:chichhorng3@gmail.com"><img src="https://img.shields.io/badge/Email-chichhorng3@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
 </div>
 
